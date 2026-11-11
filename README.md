@@ -27,7 +27,7 @@ Open `index.html` in a browser. Images, navigation, FAQs, and the saved versione
 - Bad Dudes HD v1.0.0
 - Holy Diver HD v1.0.1
 - Jaws HD v1.0.0
-- Top Gun HD v1.0.0
+- Top Gun HD v1.0.1
 
 Releases and install ZIP filenames were verified against the public GitHub API on November 11, 2026. The site links to the complete release history for every game.
 
