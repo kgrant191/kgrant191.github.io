@@ -1,6 +1,6 @@
 # NES HD Collection
 
-A static showcase for Kevin Grant's public NES HD graphics packs.
+A static showcase for Goonie's public NES HD graphics packs.
 
 ## Publish with GitHub Pages
 
@@ -46,7 +46,7 @@ The full comparison images come from the public project repositories. The WebP t
 - `jaws-hd/docs/images/03-shark-encounter.jpg`
 - `top-gun-hd/docs/images/Top_Gun_HD_Before_After_01_Carrier_Launch.png`
 
-Installation copy is based on each project's current README. The website now leads with the built-in installer and includes troubleshooting, Windows/macOS paths and tested full-file ROM SHA-1 values. Installation screenshots were provided by Kevin Grant.
+Installation copy is based on each project's current README. The website now leads with the built-in installer and includes troubleshooting, Windows/macOS paths and tested full-file ROM SHA-1 values. Installation screenshots were provided by Goonie.
 
 Unofficial fan projects. Original game assets and trademarks belong to their respective owners. No ROMs or emulator binaries are included.
 
