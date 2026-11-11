@@ -1,4 +1,4 @@
-# NES HD Collection
+# Goonie's NES HD Collection
 
 A static showcase for Goonie's public NES HD graphics packs.
 
@@ -49,4 +49,5 @@ The full comparison images come from the public project repositories. The WebP t
 Installation copy is based on each project's current README. The website now leads with the built-in installer and includes troubleshooting, Windows/macOS paths and tested full-file ROM SHA-1 values. Installation screenshots were provided by Goonie.
 
 Unofficial fan projects. Original game assets and trademarks belong to their respective owners. No ROMs or emulator binaries are included.
+
 
