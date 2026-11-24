@@ -25,11 +25,12 @@ Open `index.html` in a browser. Images, navigation, FAQs, and the saved versione
 ## Current public projects
 
 - Bad Dudes HD v1.0.0
+- Bionic Commando HD v1.0.0
 - Holy Diver HD v1.0.1
 - Jaws HD v1.0.0
 - Top Gun HD v1.0.1
 
-Releases and install ZIP filenames were verified against the public GitHub API on November 11, 2026. The site links to the complete release history for every game.
+The Bionic Commando installer was verified against the published v1.0.0 release on November 24, 2026. The other four release listings were verified on November 11, 2026. The site links to the complete release history for every game.
 
 ## Maintaining downloads
 
@@ -39,7 +40,7 @@ To add a game, copy a game-card article, give it a unique id and data-repo, upda
 
 ## Screenshot provenance
 
-The full comparison images come from the public project repositories. The WebP thumbnails are crops of their original and HD panels, not new game artwork.
+The Bionic Commando comparison uses matched original and v1.0.0 gameplay captures from the Area 3 recording in MesenCE 2.2.1. The other comparison images come from the public project repositories, with thumbnails cropped from their original and HD panels.
 
 - `bad-dudes-hd/docs/images/before-after-street.png`
 - `holy-diver-hd/docs/images/Holy_Diver_HD_Before_After_01_Gothic_Chapel.png`
